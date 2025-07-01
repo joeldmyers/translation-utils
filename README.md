@@ -13,7 +13,7 @@ To do this, I did the following:
     
     b. go to ~/Library/Group Containers/243LU875E5.groups.com.apple.podcasts/Library/Cache/Assets/TTML and grab the file and then 
     
-    c. use this rip.html in this folder to convert it to txt file.
+    c. use this rip.html in this folder to convert it to txt file. (this was pulled from here: https://github.com/Rosoe/Apple-Transcripts-to-Text)
   
 3. Combined all transcripts into one txt file manually (only 7 files, could write a script)
 4. Then run the "dedupe-lemmatized-words-csv.py" to get a list of unique word lemmas. (important since German is declined, so otherwise we would get gut, guter, gutes, when we just want gut)
