@@ -7,7 +7,7 @@ The goal is to improve my vocabulary in German in a specific domain.
 To do this, I did the following: 
 
 1. Loaded the podcast "Von Assur Nach Babylon" on a Mac
-2. Ripped the transcript: 
+2. Ripped the transcript of several podcasts: 
 
     a. open the transcript in podcast app on mac, 
     
