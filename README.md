@@ -16,8 +16,8 @@ To do this, I did the following:
     c. use this rip.html in this folder to convert it to txt file.
   
 3. Combined all transcripts into one txt file manually (only 7 files, could write a script)
-4. Then take the "Dedupe lemmatized words" to get a list of unique word lemmas. (important since German is declined, so otherwise we would get gut, guter, gutes, when we just want gut)
-5. Then take "translate german csv" to translate the words.
+4. Then run the "dedupe-lemmatized-words-csv.py" to get a list of unique word lemmas. (important since German is declined, so otherwise we would get gut, guter, gutes, when we just want gut)
+5. Then run "translate-german-csv.py" to translate the words.
 
 You can then load Anki app on a Mac and import these using a CSV. 
 
