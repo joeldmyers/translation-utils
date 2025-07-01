@@ -8,6 +8,7 @@ To do this, I did the following:
 
 1. Loaded the podcast "Von Assur Nach Babylon" on a Mac
 2. Ripped the transcript: 
+
     a. open the transcript in podcast app on mac, 
     
     b. go to ~/Library/Group Containers/243LU875E5.groups.com.apple.podcasts/Library/Cache/Assets/TTML and grab the file and then 
